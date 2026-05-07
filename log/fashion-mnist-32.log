@@ -1,0 +1,238 @@
+2026-04-30 03:06:50,604 runner.py:run:[INFO] job received! repeat: 2 classifier: "PassiveAggressiveClassifier" parameter: "{'C': 1.0}"
+2026-04-30 03:06:50,604 runner.py:run:[ERROR] PassiveAggressiveClassifier with {'C': 1.0} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,604 runner.py:run:[INFO] job received! repeat: 2 classifier: "PassiveAggressiveClassifier" parameter: "{'C': 10.0}"
+2026-04-30 03:06:50,605 runner.py:run:[ERROR] PassiveAggressiveClassifier with {'C': 10.0} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,605 runner.py:run:[INFO] job received! repeat: 2 classifier: "PassiveAggressiveClassifier" parameter: "{'C': 100.0}"
+2026-04-30 03:06:50,605 runner.py:run:[ERROR] PassiveAggressiveClassifier with {'C': 100.0} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,605 runner.py:run:[INFO] job received! repeat: 2 classifier: "SGDClassifier" parameter: "{'loss': 'hinge', 'penalty': 'l1'}"
+2026-04-30 03:06:50,605 runner.py:run:[ERROR] SGDClassifier with {'loss': 'hinge', 'penalty': 'l1'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,605 runner.py:run:[INFO] job received! repeat: 2 classifier: "SGDClassifier" parameter: "{'loss': 'hinge', 'penalty': 'l2'}"
+2026-04-30 03:06:50,605 runner.py:run:[ERROR] SGDClassifier with {'loss': 'hinge', 'penalty': 'l2'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,605 runner.py:run:[INFO] job received! repeat: 2 classifier: "SGDClassifier" parameter: "{'loss': 'hinge', 'penalty': 'elasticnet'}"
+2026-04-30 03:06:50,605 runner.py:run:[ERROR] SGDClassifier with {'loss': 'hinge', 'penalty': 'elasticnet'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,605 runner.py:run:[INFO] job received! repeat: 2 classifier: "SGDClassifier" parameter: "{'loss': 'squared_hinge', 'penalty': 'l1'}"
+2026-04-30 03:06:50,605 runner.py:run:[ERROR] SGDClassifier with {'loss': 'squared_hinge', 'penalty': 'l1'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,605 runner.py:run:[INFO] job received! repeat: 2 classifier: "SGDClassifier" parameter: "{'loss': 'squared_hinge', 'penalty': 'l2'}"
+2026-04-30 03:06:50,605 runner.py:run:[ERROR] SGDClassifier with {'loss': 'squared_hinge', 'penalty': 'l2'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,605 runner.py:run:[INFO] job received! repeat: 2 classifier: "SGDClassifier" parameter: "{'loss': 'squared_hinge', 'penalty': 'elasticnet'}"
+2026-04-30 03:06:50,605 runner.py:run:[ERROR] SGDClassifier with {'loss': 'squared_hinge', 'penalty': 'elasticnet'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,605 runner.py:run:[INFO] job received! repeat: 2 classifier: "SGDClassifier" parameter: "{'loss': 'perceptron', 'penalty': 'l1'}"
+2026-04-30 03:06:50,607 runner.py:run:[ERROR] SGDClassifier with {'loss': 'perceptron', 'penalty': 'l1'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,607 runner.py:run:[INFO] job received! repeat: 2 classifier: "SGDClassifier" parameter: "{'loss': 'perceptron', 'penalty': 'l2'}"
+2026-04-30 03:06:50,607 runner.py:run:[ERROR] SGDClassifier with {'loss': 'perceptron', 'penalty': 'l2'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,607 runner.py:run:[INFO] job received! repeat: 2 classifier: "SGDClassifier" parameter: "{'loss': 'perceptron', 'penalty': 'elasticnet'}"
+2026-04-30 03:06:50,607 runner.py:run:[ERROR] SGDClassifier with {'loss': 'perceptron', 'penalty': 'elasticnet'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,607 runner.py:run:[INFO] job received! repeat: 2 classifier: "SGDClassifier" parameter: "{'loss': 'modified_huber', 'penalty': 'l1'}"
+2026-04-30 03:06:50,607 runner.py:run:[ERROR] SGDClassifier with {'loss': 'modified_huber', 'penalty': 'l1'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,607 runner.py:run:[INFO] job received! repeat: 2 classifier: "SGDClassifier" parameter: "{'loss': 'modified_huber', 'penalty': 'l2'}"
+2026-04-30 03:06:50,610 runner.py:run:[ERROR] SGDClassifier with {'loss': 'modified_huber', 'penalty': 'l2'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,610 runner.py:run:[INFO] job received! repeat: 2 classifier: "SGDClassifier" parameter: "{'loss': 'modified_huber', 'penalty': 'elasticnet'}"
+2026-04-30 03:06:50,610 runner.py:run:[ERROR] SGDClassifier with {'loss': 'modified_huber', 'penalty': 'elasticnet'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,610 runner.py:run:[INFO] job received! repeat: 2 classifier: "Perceptron" parameter: "{'penalty': 'l1'}"
+2026-04-30 03:06:50,610 runner.py:run:[ERROR] Perceptron with {'penalty': 'l1'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,610 runner.py:run:[INFO] job received! repeat: 2 classifier: "Perceptron" parameter: "{'penalty': 'l2'}"
+2026-04-30 03:06:50,610 runner.py:run:[ERROR] Perceptron with {'penalty': 'l2'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,610 runner.py:run:[INFO] job received! repeat: 2 classifier: "Perceptron" parameter: "{'penalty': 'elasticnet'}"
+2026-04-30 03:06:50,610 runner.py:run:[ERROR] Perceptron with {'penalty': 'elasticnet'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,610 runner.py:run:[INFO] job received! repeat: 2 classifier: "DecisionTreeClassifier" parameter: "{'criterion': 'gini', 'splitter': 'best', 'max_depth': 10}"
+2026-04-30 03:06:50,610 runner.py:run:[ERROR] DecisionTreeClassifier with {'criterion': 'gini', 'splitter': 'best', 'max_depth': 10} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,610 runner.py:run:[INFO] job received! repeat: 2 classifier: "DecisionTreeClassifier" parameter: "{'criterion': 'gini', 'splitter': 'best', 'max_depth': 50}"
+2026-04-30 03:06:50,610 runner.py:run:[ERROR] DecisionTreeClassifier with {'criterion': 'gini', 'splitter': 'best', 'max_depth': 50} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,611 runner.py:run:[INFO] job received! repeat: 2 classifier: "DecisionTreeClassifier" parameter: "{'criterion': 'gini', 'splitter': 'best', 'max_depth': 100}"
+2026-04-30 03:06:50,611 runner.py:run:[ERROR] DecisionTreeClassifier with {'criterion': 'gini', 'splitter': 'best', 'max_depth': 100} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,611 runner.py:run:[INFO] job received! repeat: 2 classifier: "DecisionTreeClassifier" parameter: "{'criterion': 'gini', 'splitter': 'random', 'max_depth': 10}"
+2026-04-30 03:06:50,611 runner.py:run:[ERROR] DecisionTreeClassifier with {'criterion': 'gini', 'splitter': 'random', 'max_depth': 10} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,611 runner.py:run:[INFO] job received! repeat: 2 classifier: "DecisionTreeClassifier" parameter: "{'criterion': 'gini', 'splitter': 'random', 'max_depth': 50}"
+2026-04-30 03:06:50,611 runner.py:run:[ERROR] DecisionTreeClassifier with {'criterion': 'gini', 'splitter': 'random', 'max_depth': 50} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,611 runner.py:run:[INFO] job received! repeat: 2 classifier: "DecisionTreeClassifier" parameter: "{'criterion': 'gini', 'splitter': 'random', 'max_depth': 100}"
+2026-04-30 03:06:50,611 runner.py:run:[ERROR] DecisionTreeClassifier with {'criterion': 'gini', 'splitter': 'random', 'max_depth': 100} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,611 runner.py:run:[INFO] job received! repeat: 2 classifier: "DecisionTreeClassifier" parameter: "{'criterion': 'entropy', 'splitter': 'best', 'max_depth': 10}"
+2026-04-30 03:06:50,611 runner.py:run:[ERROR] DecisionTreeClassifier with {'criterion': 'entropy', 'splitter': 'best', 'max_depth': 10} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,611 runner.py:run:[INFO] job received! repeat: 2 classifier: "DecisionTreeClassifier" parameter: "{'criterion': 'entropy', 'splitter': 'best', 'max_depth': 50}"
+2026-04-30 03:06:50,611 runner.py:run:[ERROR] DecisionTreeClassifier with {'criterion': 'entropy', 'splitter': 'best', 'max_depth': 50} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,611 runner.py:run:[INFO] job received! repeat: 2 classifier: "DecisionTreeClassifier" parameter: "{'criterion': 'entropy', 'splitter': 'best', 'max_depth': 100}"
+2026-04-30 03:06:50,611 runner.py:run:[ERROR] DecisionTreeClassifier with {'criterion': 'entropy', 'splitter': 'best', 'max_depth': 100} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,611 runner.py:run:[INFO] job received! repeat: 2 classifier: "DecisionTreeClassifier" parameter: "{'criterion': 'entropy', 'splitter': 'random', 'max_depth': 10}"
+2026-04-30 03:06:50,611 runner.py:run:[ERROR] DecisionTreeClassifier with {'criterion': 'entropy', 'splitter': 'random', 'max_depth': 10} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,611 runner.py:run:[INFO] job received! repeat: 2 classifier: "DecisionTreeClassifier" parameter: "{'criterion': 'entropy', 'splitter': 'random', 'max_depth': 50}"
+2026-04-30 03:06:50,611 runner.py:run:[ERROR] DecisionTreeClassifier with {'criterion': 'entropy', 'splitter': 'random', 'max_depth': 50} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,611 runner.py:run:[INFO] job received! repeat: 2 classifier: "DecisionTreeClassifier" parameter: "{'criterion': 'entropy', 'splitter': 'random', 'max_depth': 100}"
+2026-04-30 03:06:50,611 runner.py:run:[ERROR] DecisionTreeClassifier with {'criterion': 'entropy', 'splitter': 'random', 'max_depth': 100} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,613 runner.py:run:[INFO] job received! repeat: 2 classifier: "RandomForestClassifier" parameter: "{'criterion': 'gini', 'max_depth': 10, 'n_estimators': 10}"
+2026-04-30 03:06:50,613 runner.py:run:[ERROR] RandomForestClassifier with {'criterion': 'gini', 'max_depth': 10, 'n_estimators': 10} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,613 runner.py:run:[INFO] job received! repeat: 2 classifier: "RandomForestClassifier" parameter: "{'criterion': 'gini', 'max_depth': 10, 'n_estimators': 50}"
+2026-04-30 03:06:50,613 runner.py:run:[ERROR] RandomForestClassifier with {'criterion': 'gini', 'max_depth': 10, 'n_estimators': 50} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,613 runner.py:run:[INFO] job received! repeat: 2 classifier: "RandomForestClassifier" parameter: "{'criterion': 'gini', 'max_depth': 10, 'n_estimators': 100}"
+2026-04-30 03:06:50,613 runner.py:run:[ERROR] RandomForestClassifier with {'criterion': 'gini', 'max_depth': 10, 'n_estimators': 100} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,613 runner.py:run:[INFO] job received! repeat: 2 classifier: "RandomForestClassifier" parameter: "{'criterion': 'gini', 'max_depth': 50, 'n_estimators': 10}"
+2026-04-30 03:06:50,613 runner.py:run:[ERROR] RandomForestClassifier with {'criterion': 'gini', 'max_depth': 50, 'n_estimators': 10} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,613 runner.py:run:[INFO] job received! repeat: 2 classifier: "RandomForestClassifier" parameter: "{'criterion': 'gini', 'max_depth': 50, 'n_estimators': 50}"
+2026-04-30 03:06:50,613 runner.py:run:[ERROR] RandomForestClassifier with {'criterion': 'gini', 'max_depth': 50, 'n_estimators': 50} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,613 runner.py:run:[INFO] job received! repeat: 2 classifier: "RandomForestClassifier" parameter: "{'criterion': 'gini', 'max_depth': 50, 'n_estimators': 100}"
+2026-04-30 03:06:50,613 runner.py:run:[ERROR] RandomForestClassifier with {'criterion': 'gini', 'max_depth': 50, 'n_estimators': 100} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,613 runner.py:run:[INFO] job received! repeat: 2 classifier: "RandomForestClassifier" parameter: "{'criterion': 'gini', 'max_depth': 100, 'n_estimators': 10}"
+2026-04-30 03:06:50,613 runner.py:run:[ERROR] RandomForestClassifier with {'criterion': 'gini', 'max_depth': 100, 'n_estimators': 10} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,613 runner.py:run:[INFO] job received! repeat: 2 classifier: "RandomForestClassifier" parameter: "{'criterion': 'gini', 'max_depth': 100, 'n_estimators': 50}"
+2026-04-30 03:06:50,613 runner.py:run:[ERROR] RandomForestClassifier with {'criterion': 'gini', 'max_depth': 100, 'n_estimators': 50} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,613 runner.py:run:[INFO] job received! repeat: 2 classifier: "RandomForestClassifier" parameter: "{'criterion': 'gini', 'max_depth': 100, 'n_estimators': 100}"
+2026-04-30 03:06:50,613 runner.py:run:[ERROR] RandomForestClassifier with {'criterion': 'gini', 'max_depth': 100, 'n_estimators': 100} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,613 runner.py:run:[INFO] job received! repeat: 2 classifier: "RandomForestClassifier" parameter: "{'criterion': 'entropy', 'max_depth': 10, 'n_estimators': 10}"
+2026-04-30 03:06:50,613 runner.py:run:[ERROR] RandomForestClassifier with {'criterion': 'entropy', 'max_depth': 10, 'n_estimators': 10} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,613 runner.py:run:[INFO] job received! repeat: 2 classifier: "RandomForestClassifier" parameter: "{'criterion': 'entropy', 'max_depth': 10, 'n_estimators': 50}"
+2026-04-30 03:06:50,614 runner.py:run:[ERROR] RandomForestClassifier with {'criterion': 'entropy', 'max_depth': 10, 'n_estimators': 50} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,614 runner.py:run:[INFO] job received! repeat: 2 classifier: "RandomForestClassifier" parameter: "{'criterion': 'entropy', 'max_depth': 10, 'n_estimators': 100}"
+2026-04-30 03:06:50,614 runner.py:run:[ERROR] RandomForestClassifier with {'criterion': 'entropy', 'max_depth': 10, 'n_estimators': 100} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,614 runner.py:run:[INFO] job received! repeat: 2 classifier: "RandomForestClassifier" parameter: "{'criterion': 'entropy', 'max_depth': 50, 'n_estimators': 10}"
+2026-04-30 03:06:50,614 runner.py:run:[ERROR] RandomForestClassifier with {'criterion': 'entropy', 'max_depth': 50, 'n_estimators': 10} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,614 runner.py:run:[INFO] job received! repeat: 2 classifier: "RandomForestClassifier" parameter: "{'criterion': 'entropy', 'max_depth': 50, 'n_estimators': 50}"
+2026-04-30 03:06:50,614 runner.py:run:[ERROR] RandomForestClassifier with {'criterion': 'entropy', 'max_depth': 50, 'n_estimators': 50} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,614 runner.py:run:[INFO] job received! repeat: 2 classifier: "RandomForestClassifier" parameter: "{'criterion': 'entropy', 'max_depth': 50, 'n_estimators': 100}"
+2026-04-30 03:06:50,614 runner.py:run:[ERROR] RandomForestClassifier with {'criterion': 'entropy', 'max_depth': 50, 'n_estimators': 100} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,614 runner.py:run:[INFO] job received! repeat: 2 classifier: "RandomForestClassifier" parameter: "{'criterion': 'entropy', 'max_depth': 100, 'n_estimators': 10}"
+2026-04-30 03:06:50,614 runner.py:run:[ERROR] RandomForestClassifier with {'criterion': 'entropy', 'max_depth': 100, 'n_estimators': 10} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,614 runner.py:run:[INFO] job received! repeat: 2 classifier: "RandomForestClassifier" parameter: "{'criterion': 'entropy', 'max_depth': 100, 'n_estimators': 50}"
+2026-04-30 03:06:50,614 runner.py:run:[ERROR] RandomForestClassifier with {'criterion': 'entropy', 'max_depth': 100, 'n_estimators': 50} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,614 runner.py:run:[INFO] job received! repeat: 2 classifier: "RandomForestClassifier" parameter: "{'criterion': 'entropy', 'max_depth': 100, 'n_estimators': 100}"
+2026-04-30 03:06:50,614 runner.py:run:[ERROR] RandomForestClassifier with {'criterion': 'entropy', 'max_depth': 100, 'n_estimators': 100} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,615 runner.py:run:[INFO] job received! repeat: 2 classifier: "LogisticRegression" parameter: "{'penalty': 'l2', 'C': 1.0, 'multi_class': 'ovr'}"
+2026-04-30 03:06:50,615 runner.py:run:[ERROR] LogisticRegression with {'penalty': 'l2', 'C': 1.0, 'multi_class': 'ovr'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,615 runner.py:run:[INFO] job received! repeat: 2 classifier: "LogisticRegression" parameter: "{'penalty': 'l2', 'C': 1.0, 'multi_class': 'multinomial'}"
+2026-04-30 03:06:50,615 runner.py:run:[ERROR] LogisticRegression with {'penalty': 'l2', 'C': 1.0, 'multi_class': 'multinomial'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,615 runner.py:run:[INFO] job received! repeat: 2 classifier: "LogisticRegression" parameter: "{'penalty': 'l2', 'C': 10.0, 'multi_class': 'ovr'}"
+2026-04-30 03:06:50,615 runner.py:run:[ERROR] LogisticRegression with {'penalty': 'l2', 'C': 10.0, 'multi_class': 'ovr'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,615 runner.py:run:[INFO] job received! repeat: 2 classifier: "LogisticRegression" parameter: "{'penalty': 'l2', 'C': 10.0, 'multi_class': 'multinomial'}"
+2026-04-30 03:06:50,615 runner.py:run:[ERROR] LogisticRegression with {'penalty': 'l2', 'C': 10.0, 'multi_class': 'multinomial'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,615 runner.py:run:[INFO] job received! repeat: 2 classifier: "LogisticRegression" parameter: "{'penalty': 'l2', 'C': 100.0, 'multi_class': 'ovr'}"
+2026-04-30 03:06:50,615 runner.py:run:[ERROR] LogisticRegression with {'penalty': 'l2', 'C': 100.0, 'multi_class': 'ovr'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,615 runner.py:run:[INFO] job received! repeat: 2 classifier: "LogisticRegression" parameter: "{'penalty': 'l2', 'C': 100.0, 'multi_class': 'multinomial'}"
+2026-04-30 03:06:50,615 runner.py:run:[ERROR] LogisticRegression with {'penalty': 'l2', 'C': 100.0, 'multi_class': 'multinomial'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,615 runner.py:run:[INFO] job received! repeat: 2 classifier: "MLPClassifier" parameter: "{'activation': 'tanh', 'hidden_layer_sizes': (10,)}"
+2026-04-30 03:06:50,615 runner.py:run:[ERROR] MLPClassifier with {'activation': 'tanh', 'hidden_layer_sizes': (10,)} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,616 runner.py:run:[INFO] job received! repeat: 2 classifier: "MLPClassifier" parameter: "{'activation': 'tanh', 'hidden_layer_sizes': (100,)}"
+2026-04-30 03:06:50,616 runner.py:run:[ERROR] MLPClassifier with {'activation': 'tanh', 'hidden_layer_sizes': (100,)} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,616 runner.py:run:[INFO] job received! repeat: 2 classifier: "MLPClassifier" parameter: "{'activation': 'tanh', 'hidden_layer_sizes': (10, 10)}"
+2026-04-30 03:06:50,616 runner.py:run:[ERROR] MLPClassifier with {'activation': 'tanh', 'hidden_layer_sizes': (10, 10)} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,616 runner.py:run:[INFO] job received! repeat: 2 classifier: "MLPClassifier" parameter: "{'activation': 'tanh', 'hidden_layer_sizes': (100, 10)}"
+2026-04-30 03:06:50,616 runner.py:run:[ERROR] MLPClassifier with {'activation': 'tanh', 'hidden_layer_sizes': (100, 10)} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,616 runner.py:run:[INFO] job received! repeat: 2 classifier: "MLPClassifier" parameter: "{'activation': 'relu', 'hidden_layer_sizes': (10,)}"
+2026-04-30 03:06:50,616 runner.py:run:[ERROR] MLPClassifier with {'activation': 'relu', 'hidden_layer_sizes': (10,)} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,616 runner.py:run:[INFO] job received! repeat: 2 classifier: "MLPClassifier" parameter: "{'activation': 'relu', 'hidden_layer_sizes': (100,)}"
+2026-04-30 03:06:50,616 runner.py:run:[ERROR] MLPClassifier with {'activation': 'relu', 'hidden_layer_sizes': (100,)} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,616 runner.py:run:[INFO] job received! repeat: 2 classifier: "MLPClassifier" parameter: "{'activation': 'relu', 'hidden_layer_sizes': (10, 10)}"
+2026-04-30 03:06:50,616 runner.py:run:[ERROR] MLPClassifier with {'activation': 'relu', 'hidden_layer_sizes': (10, 10)} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,616 runner.py:run:[INFO] job received! repeat: 2 classifier: "MLPClassifier" parameter: "{'activation': 'relu', 'hidden_layer_sizes': (100, 10)}"
+2026-04-30 03:06:50,616 runner.py:run:[ERROR] MLPClassifier with {'activation': 'relu', 'hidden_layer_sizes': (100, 10)} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,617 runner.py:run:[INFO] job received! repeat: 2 classifier: "KNeighborsClassifier" parameter: "{'n_neighbors': 1, 'weights': 'uniform', 'p': 1}"
+2026-04-30 03:06:50,617 runner.py:run:[ERROR] KNeighborsClassifier with {'n_neighbors': 1, 'weights': 'uniform', 'p': 1} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,617 runner.py:run:[INFO] job received! repeat: 2 classifier: "KNeighborsClassifier" parameter: "{'n_neighbors': 1, 'weights': 'uniform', 'p': 2}"
+2026-04-30 03:06:50,617 runner.py:run:[ERROR] KNeighborsClassifier with {'n_neighbors': 1, 'weights': 'uniform', 'p': 2} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,617 runner.py:run:[INFO] job received! repeat: 2 classifier: "KNeighborsClassifier" parameter: "{'n_neighbors': 1, 'weights': 'distance', 'p': 1}"
+2026-04-30 03:06:50,617 runner.py:run:[ERROR] KNeighborsClassifier with {'n_neighbors': 1, 'weights': 'distance', 'p': 1} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,617 runner.py:run:[INFO] job received! repeat: 2 classifier: "KNeighborsClassifier" parameter: "{'n_neighbors': 1, 'weights': 'distance', 'p': 2}"
+2026-04-30 03:06:50,617 runner.py:run:[ERROR] KNeighborsClassifier with {'n_neighbors': 1, 'weights': 'distance', 'p': 2} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,617 runner.py:run:[INFO] job received! repeat: 2 classifier: "KNeighborsClassifier" parameter: "{'n_neighbors': 5, 'weights': 'uniform', 'p': 1}"
+2026-04-30 03:06:50,617 runner.py:run:[ERROR] KNeighborsClassifier with {'n_neighbors': 5, 'weights': 'uniform', 'p': 1} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,617 runner.py:run:[INFO] job received! repeat: 2 classifier: "KNeighborsClassifier" parameter: "{'n_neighbors': 5, 'weights': 'uniform', 'p': 2}"
+2026-04-30 03:06:50,617 runner.py:run:[ERROR] KNeighborsClassifier with {'n_neighbors': 5, 'weights': 'uniform', 'p': 2} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,617 runner.py:run:[INFO] job received! repeat: 2 classifier: "KNeighborsClassifier" parameter: "{'n_neighbors': 5, 'weights': 'distance', 'p': 1}"
+2026-04-30 03:06:50,617 runner.py:run:[ERROR] KNeighborsClassifier with {'n_neighbors': 5, 'weights': 'distance', 'p': 1} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,618 runner.py:run:[INFO] job received! repeat: 2 classifier: "KNeighborsClassifier" parameter: "{'n_neighbors': 5, 'weights': 'distance', 'p': 2}"
+2026-04-30 03:06:50,618 runner.py:run:[ERROR] KNeighborsClassifier with {'n_neighbors': 5, 'weights': 'distance', 'p': 2} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,618 runner.py:run:[INFO] job received! repeat: 2 classifier: "KNeighborsClassifier" parameter: "{'n_neighbors': 9, 'weights': 'uniform', 'p': 1}"
+2026-04-30 03:06:50,618 runner.py:run:[ERROR] KNeighborsClassifier with {'n_neighbors': 9, 'weights': 'uniform', 'p': 1} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,618 runner.py:run:[INFO] job received! repeat: 2 classifier: "KNeighborsClassifier" parameter: "{'n_neighbors': 9, 'weights': 'uniform', 'p': 2}"
+2026-04-30 03:06:50,618 runner.py:run:[ERROR] KNeighborsClassifier with {'n_neighbors': 9, 'weights': 'uniform', 'p': 2} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,618 runner.py:run:[INFO] job received! repeat: 2 classifier: "KNeighborsClassifier" parameter: "{'n_neighbors': 9, 'weights': 'distance', 'p': 1}"
+2026-04-30 03:06:50,618 runner.py:run:[ERROR] KNeighborsClassifier with {'n_neighbors': 9, 'weights': 'distance', 'p': 1} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,618 runner.py:run:[INFO] job received! repeat: 2 classifier: "KNeighborsClassifier" parameter: "{'n_neighbors': 9, 'weights': 'distance', 'p': 2}"
+2026-04-30 03:06:50,618 runner.py:run:[ERROR] KNeighborsClassifier with {'n_neighbors': 9, 'weights': 'distance', 'p': 2} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,618 runner.py:run:[INFO] job received! repeat: 2 classifier: "SVC" parameter: "{'C': 1.0, 'kernel': 'linear'}"
+2026-04-30 03:06:50,618 runner.py:run:[ERROR] SVC with {'C': 1.0, 'kernel': 'linear'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,618 runner.py:run:[INFO] job received! repeat: 2 classifier: "SVC" parameter: "{'C': 1.0, 'kernel': 'rbf'}"
+2026-04-30 03:06:50,618 runner.py:run:[ERROR] SVC with {'C': 1.0, 'kernel': 'rbf'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,618 runner.py:run:[INFO] job received! repeat: 2 classifier: "SVC" parameter: "{'C': 1.0, 'kernel': 'poly'}"
+2026-04-30 03:06:50,619 runner.py:run:[ERROR] SVC with {'C': 1.0, 'kernel': 'poly'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,619 runner.py:run:[INFO] job received! repeat: 2 classifier: "SVC" parameter: "{'C': 1.0, 'kernel': 'sigmoid'}"
+2026-04-30 03:06:50,619 runner.py:run:[ERROR] SVC with {'C': 1.0, 'kernel': 'sigmoid'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,619 runner.py:run:[INFO] job received! repeat: 2 classifier: "SVC" parameter: "{'C': 10.0, 'kernel': 'linear'}"
+2026-04-30 03:06:50,619 runner.py:run:[ERROR] SVC with {'C': 10.0, 'kernel': 'linear'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,619 runner.py:run:[INFO] job received! repeat: 2 classifier: "SVC" parameter: "{'C': 10.0, 'kernel': 'rbf'}"
+2026-04-30 03:06:50,619 runner.py:run:[ERROR] SVC with {'C': 10.0, 'kernel': 'rbf'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,619 runner.py:run:[INFO] job received! repeat: 2 classifier: "SVC" parameter: "{'C': 10.0, 'kernel': 'poly'}"
+2026-04-30 03:06:50,619 runner.py:run:[ERROR] SVC with {'C': 10.0, 'kernel': 'poly'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,619 runner.py:run:[INFO] job received! repeat: 2 classifier: "SVC" parameter: "{'C': 10.0, 'kernel': 'sigmoid'}"
+2026-04-30 03:06:50,619 runner.py:run:[ERROR] SVC with {'C': 10.0, 'kernel': 'sigmoid'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,619 runner.py:run:[INFO] job received! repeat: 2 classifier: "SVC" parameter: "{'C': 100.0, 'kernel': 'linear'}"
+2026-04-30 03:06:50,619 runner.py:run:[ERROR] SVC with {'C': 100.0, 'kernel': 'linear'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,619 runner.py:run:[INFO] job received! repeat: 2 classifier: "SVC" parameter: "{'C': 100.0, 'kernel': 'rbf'}"
+2026-04-30 03:06:50,619 runner.py:run:[ERROR] SVC with {'C': 100.0, 'kernel': 'rbf'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,619 runner.py:run:[INFO] job received! repeat: 2 classifier: "SVC" parameter: "{'C': 100.0, 'kernel': 'poly'}"
+2026-04-30 03:06:50,620 runner.py:run:[ERROR] SVC with {'C': 100.0, 'kernel': 'poly'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,620 runner.py:run:[INFO] job received! repeat: 2 classifier: "SVC" parameter: "{'C': 100.0, 'kernel': 'sigmoid'}"
+2026-04-30 03:06:50,620 runner.py:run:[ERROR] SVC with {'C': 100.0, 'kernel': 'sigmoid'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,620 runner.py:run:[INFO] job received! repeat: 2 classifier: "GaussianNB" parameter: "{'priors': [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]}"
+2026-04-30 03:06:50,620 runner.py:run:[ERROR] GaussianNB with {'priors': [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,620 runner.py:run:[INFO] job received! repeat: 2 classifier: "ExtraTreeClassifier" parameter: "{'criterion': 'gini', 'splitter': 'best', 'max_depth': 10}"
+2026-04-30 03:06:50,620 runner.py:run:[ERROR] ExtraTreeClassifier with {'criterion': 'gini', 'splitter': 'best', 'max_depth': 10} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,620 runner.py:run:[INFO] job received! repeat: 2 classifier: "ExtraTreeClassifier" parameter: "{'criterion': 'gini', 'splitter': 'best', 'max_depth': 50}"
+2026-04-30 03:06:50,620 runner.py:run:[ERROR] ExtraTreeClassifier with {'criterion': 'gini', 'splitter': 'best', 'max_depth': 50} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,620 runner.py:run:[INFO] job received! repeat: 2 classifier: "ExtraTreeClassifier" parameter: "{'criterion': 'gini', 'splitter': 'best', 'max_depth': 100}"
+2026-04-30 03:06:50,620 runner.py:run:[ERROR] ExtraTreeClassifier with {'criterion': 'gini', 'splitter': 'best', 'max_depth': 100} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,620 runner.py:run:[INFO] job received! repeat: 2 classifier: "ExtraTreeClassifier" parameter: "{'criterion': 'gini', 'splitter': 'random', 'max_depth': 10}"
+2026-04-30 03:06:50,620 runner.py:run:[ERROR] ExtraTreeClassifier with {'criterion': 'gini', 'splitter': 'random', 'max_depth': 10} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,620 runner.py:run:[INFO] job received! repeat: 2 classifier: "ExtraTreeClassifier" parameter: "{'criterion': 'gini', 'splitter': 'random', 'max_depth': 50}"
+2026-04-30 03:06:50,620 runner.py:run:[ERROR] ExtraTreeClassifier with {'criterion': 'gini', 'splitter': 'random', 'max_depth': 50} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,621 runner.py:run:[INFO] job received! repeat: 2 classifier: "ExtraTreeClassifier" parameter: "{'criterion': 'gini', 'splitter': 'random', 'max_depth': 100}"
+2026-04-30 03:06:50,621 runner.py:run:[ERROR] ExtraTreeClassifier with {'criterion': 'gini', 'splitter': 'random', 'max_depth': 100} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,621 runner.py:run:[INFO] job received! repeat: 2 classifier: "ExtraTreeClassifier" parameter: "{'criterion': 'entropy', 'splitter': 'best', 'max_depth': 10}"
+2026-04-30 03:06:50,621 runner.py:run:[ERROR] ExtraTreeClassifier with {'criterion': 'entropy', 'splitter': 'best', 'max_depth': 10} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,621 runner.py:run:[INFO] job received! repeat: 2 classifier: "ExtraTreeClassifier" parameter: "{'criterion': 'entropy', 'splitter': 'best', 'max_depth': 50}"
+2026-04-30 03:06:50,621 runner.py:run:[ERROR] ExtraTreeClassifier with {'criterion': 'entropy', 'splitter': 'best', 'max_depth': 50} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,621 runner.py:run:[INFO] job received! repeat: 2 classifier: "ExtraTreeClassifier" parameter: "{'criterion': 'entropy', 'splitter': 'best', 'max_depth': 100}"
+2026-04-30 03:06:50,621 runner.py:run:[ERROR] ExtraTreeClassifier with {'criterion': 'entropy', 'splitter': 'best', 'max_depth': 100} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,621 runner.py:run:[INFO] job received! repeat: 2 classifier: "ExtraTreeClassifier" parameter: "{'criterion': 'entropy', 'splitter': 'random', 'max_depth': 10}"
+2026-04-30 03:06:50,621 runner.py:run:[ERROR] ExtraTreeClassifier with {'criterion': 'entropy', 'splitter': 'random', 'max_depth': 10} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,621 runner.py:run:[INFO] job received! repeat: 2 classifier: "ExtraTreeClassifier" parameter: "{'criterion': 'entropy', 'splitter': 'random', 'max_depth': 50}"
+2026-04-30 03:06:50,621 runner.py:run:[ERROR] ExtraTreeClassifier with {'criterion': 'entropy', 'splitter': 'random', 'max_depth': 50} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,621 runner.py:run:[INFO] job received! repeat: 2 classifier: "ExtraTreeClassifier" parameter: "{'criterion': 'entropy', 'splitter': 'random', 'max_depth': 100}"
+2026-04-30 03:06:50,621 runner.py:run:[ERROR] ExtraTreeClassifier with {'criterion': 'entropy', 'splitter': 'random', 'max_depth': 100} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,621 runner.py:run:[INFO] job received! repeat: 2 classifier: "GaussianProcessClassifier" parameter: "{'multi_class': 'one_vs_one'}"
+2026-04-30 03:06:50,622 runner.py:run:[ERROR] GaussianProcessClassifier with {'multi_class': 'one_vs_one'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,622 runner.py:run:[INFO] job received! repeat: 2 classifier: "GaussianProcessClassifier" parameter: "{'multi_class': 'one_vs_rest'}"
+2026-04-30 03:06:50,622 runner.py:run:[ERROR] GaussianProcessClassifier with {'multi_class': 'one_vs_rest'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,622 runner.py:run:[INFO] job received! repeat: 2 classifier: "LinearSVC" parameter: "{'loss': 'hinge', 'penalty': 'l1', 'C': 1.0, 'multi_class': 'crammer_singer'}"
+2026-04-30 03:06:50,622 runner.py:run:[ERROR] LinearSVC with {'loss': 'hinge', 'penalty': 'l1', 'C': 1.0, 'multi_class': 'crammer_singer'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,622 runner.py:run:[INFO] job received! repeat: 2 classifier: "LinearSVC" parameter: "{'loss': 'hinge', 'penalty': 'l1', 'C': 10.0, 'multi_class': 'crammer_singer'}"
+2026-04-30 03:06:50,622 runner.py:run:[ERROR] LinearSVC with {'loss': 'hinge', 'penalty': 'l1', 'C': 10.0, 'multi_class': 'crammer_singer'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,622 runner.py:run:[INFO] job received! repeat: 2 classifier: "LinearSVC" parameter: "{'loss': 'hinge', 'penalty': 'l1', 'C': 100.0, 'multi_class': 'crammer_singer'}"
+2026-04-30 03:06:50,622 runner.py:run:[ERROR] LinearSVC with {'loss': 'hinge', 'penalty': 'l1', 'C': 100.0, 'multi_class': 'crammer_singer'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,622 runner.py:run:[INFO] job received! repeat: 2 classifier: "LinearSVC" parameter: "{'loss': 'hinge', 'penalty': 'l2', 'C': 1.0, 'multi_class': 'ovr'}"
+2026-04-30 03:06:50,622 runner.py:run:[ERROR] LinearSVC with {'loss': 'hinge', 'penalty': 'l2', 'C': 1.0, 'multi_class': 'ovr'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,622 runner.py:run:[INFO] job received! repeat: 2 classifier: "LinearSVC" parameter: "{'loss': 'hinge', 'penalty': 'l2', 'C': 1.0, 'multi_class': 'crammer_singer'}"
+2026-04-30 03:06:50,622 runner.py:run:[ERROR] LinearSVC with {'loss': 'hinge', 'penalty': 'l2', 'C': 1.0, 'multi_class': 'crammer_singer'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,622 runner.py:run:[INFO] job received! repeat: 2 classifier: "LinearSVC" parameter: "{'loss': 'hinge', 'penalty': 'l2', 'C': 10.0, 'multi_class': 'ovr'}"
+2026-04-30 03:06:50,622 runner.py:run:[ERROR] LinearSVC with {'loss': 'hinge', 'penalty': 'l2', 'C': 10.0, 'multi_class': 'ovr'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,622 runner.py:run:[INFO] job received! repeat: 2 classifier: "LinearSVC" parameter: "{'loss': 'hinge', 'penalty': 'l2', 'C': 10.0, 'multi_class': 'crammer_singer'}"
+2026-04-30 03:06:50,623 runner.py:run:[ERROR] LinearSVC with {'loss': 'hinge', 'penalty': 'l2', 'C': 10.0, 'multi_class': 'crammer_singer'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,623 runner.py:run:[INFO] job received! repeat: 2 classifier: "LinearSVC" parameter: "{'loss': 'hinge', 'penalty': 'l2', 'C': 100.0, 'multi_class': 'ovr'}"
+2026-04-30 03:06:50,623 runner.py:run:[ERROR] LinearSVC with {'loss': 'hinge', 'penalty': 'l2', 'C': 100.0, 'multi_class': 'ovr'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,623 runner.py:run:[INFO] job received! repeat: 2 classifier: "LinearSVC" parameter: "{'loss': 'hinge', 'penalty': 'l2', 'C': 100.0, 'multi_class': 'crammer_singer'}"
+2026-04-30 03:06:50,623 runner.py:run:[ERROR] LinearSVC with {'loss': 'hinge', 'penalty': 'l2', 'C': 100.0, 'multi_class': 'crammer_singer'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,623 runner.py:run:[INFO] job received! repeat: 2 classifier: "LinearSVC" parameter: "{'loss': 'squared_hinge', 'penalty': 'l1', 'C': 1.0, 'multi_class': 'crammer_singer'}"
+2026-04-30 03:06:50,623 runner.py:run:[ERROR] LinearSVC with {'loss': 'squared_hinge', 'penalty': 'l1', 'C': 1.0, 'multi_class': 'crammer_singer'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,623 runner.py:run:[INFO] job received! repeat: 2 classifier: "LinearSVC" parameter: "{'loss': 'squared_hinge', 'penalty': 'l1', 'C': 10.0, 'multi_class': 'crammer_singer'}"
+2026-04-30 03:06:50,623 runner.py:run:[ERROR] LinearSVC with {'loss': 'squared_hinge', 'penalty': 'l1', 'C': 10.0, 'multi_class': 'crammer_singer'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,623 runner.py:run:[INFO] job received! repeat: 2 classifier: "LinearSVC" parameter: "{'loss': 'squared_hinge', 'penalty': 'l1', 'C': 100.0, 'multi_class': 'crammer_singer'}"
+2026-04-30 03:06:50,623 runner.py:run:[ERROR] LinearSVC with {'loss': 'squared_hinge', 'penalty': 'l1', 'C': 100.0, 'multi_class': 'crammer_singer'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,623 runner.py:run:[INFO] job received! repeat: 2 classifier: "LinearSVC" parameter: "{'loss': 'squared_hinge', 'penalty': 'l2', 'C': 1.0, 'multi_class': 'ovr'}"
+2026-04-30 03:06:50,623 runner.py:run:[ERROR] LinearSVC with {'loss': 'squared_hinge', 'penalty': 'l2', 'C': 1.0, 'multi_class': 'ovr'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,623 runner.py:run:[INFO] job received! repeat: 2 classifier: "LinearSVC" parameter: "{'loss': 'squared_hinge', 'penalty': 'l2', 'C': 1.0, 'multi_class': 'crammer_singer'}"
+2026-04-30 03:06:50,623 runner.py:run:[ERROR] LinearSVC with {'loss': 'squared_hinge', 'penalty': 'l2', 'C': 1.0, 'multi_class': 'crammer_singer'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,623 runner.py:run:[INFO] job received! repeat: 2 classifier: "LinearSVC" parameter: "{'loss': 'squared_hinge', 'penalty': 'l2', 'C': 10.0, 'multi_class': 'ovr'}"
+2026-04-30 03:06:50,624 runner.py:run:[ERROR] LinearSVC with {'loss': 'squared_hinge', 'penalty': 'l2', 'C': 10.0, 'multi_class': 'ovr'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,624 runner.py:run:[INFO] job received! repeat: 2 classifier: "LinearSVC" parameter: "{'loss': 'squared_hinge', 'penalty': 'l2', 'C': 10.0, 'multi_class': 'crammer_singer'}"
+2026-04-30 03:06:50,624 runner.py:run:[ERROR] LinearSVC with {'loss': 'squared_hinge', 'penalty': 'l2', 'C': 10.0, 'multi_class': 'crammer_singer'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,624 runner.py:run:[INFO] job received! repeat: 2 classifier: "LinearSVC" parameter: "{'loss': 'squared_hinge', 'penalty': 'l2', 'C': 100.0, 'multi_class': 'ovr'}"
+2026-04-30 03:06:50,624 runner.py:run:[ERROR] LinearSVC with {'loss': 'squared_hinge', 'penalty': 'l2', 'C': 100.0, 'multi_class': 'ovr'} failed! reason: module 'time' has no attribute 'clock'
+2026-04-30 03:06:50,624 runner.py:run:[INFO] job received! repeat: 2 classifier: "LinearSVC" parameter: "{'loss': 'squared_hinge', 'penalty': 'l2', 'C': 100.0, 'multi_class': 'crammer_singer'}"
+2026-04-30 03:06:50,624 runner.py:run:[ERROR] LinearSVC with {'loss': 'squared_hinge', 'penalty': 'l2', 'C': 100.0, 'multi_class': 'crammer_singer'} failed! reason: module 'time' has no attribute 'clock'
